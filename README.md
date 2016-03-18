@@ -16,9 +16,9 @@ Please search issues and pull requests before adding something new to avoid dupl
 
 ## Contact
 
-- chat: the #popuparcade channel in the Open Seattle slack group. Join here: http://openseattleslack.herokuapp.com
-- issues: we use the various issues queues in this organization's repository to track and discuss issues
-- announcements: subscribe to the popup arcade newsletter: https://tinyletter.com/popuparcade
+- **Chat**: the #popuparcade channel in the Open Seattle slack group. Join here: http://openseattleslack.herokuapp.com
+- **Issues**: we use the various issues queues in this organization's repository to track and discuss issues
+- **Announcements**: subscribe to the popup arcade newsletter: https://tinyletter.com/popuparcade
 
 ## Conduct
 
